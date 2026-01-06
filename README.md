@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 ### GitHub İstatistiklerim
-<img src="https://streak-stats.demolab.com/?user=mhmtkfdev&theme=dark" alt="GitHub Streak" />
+![GitHub Streak](https://streak-stats.demolab.com/?user=mhmtkfdev&theme=dark)
 [![GitHub Streak](https://streak-stats.demolab.com/?user=mhmtkfdev&theme=dark)](https://git.io/streak-stats)
 
 ### HackerRank Başarılarım
