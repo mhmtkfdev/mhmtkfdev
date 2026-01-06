@@ -36,15 +36,6 @@ Here are some ideas to get you started:
 - Şu anda okulumuz bünyesinde KATOT (Karadeniz Teknik Üniversitesi Otonom Araç Takımı) takımında çalışıyorum.  
   
 
--   
-  
-
--   
-  
-
--   
-  
-
 <br/>  
 
 
@@ -126,7 +117,7 @@ Here are some ideas to get you started:
 
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=https://github.com/mhmtkfdev/mhmtkfdev/&hide_border=true&layout=compact" align="center" /></div>  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mhmtkfdev&hide_border=true&layout=compact" align="center" /></div>  
 
 <br/>  
 
