@@ -123,15 +123,10 @@ Here are some ideas to get you started:
 <!-- BLOG-POST-LIST:START -->  
 If things goes well, this section should automatically be replaced by a list of your blog posts after you commit your readme file. 
 <!-- BLOG-POST-LIST:END -->  
-
-<br/>  
-
-<div align="center"><img src="https://rishavanand.github.io/static/images/spotify-readme-example.svg" /></div>  
-
-<br/>  
+ 
 
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=https://github.com/mhmtkfdev/mhmtkfdev/&&style=flat-square" align="center" />
+<img src="https://komarev.com/ghpvc/?username=mhmtkfdev&&style=flat-square" align="center" />
 </div>  
   
 
