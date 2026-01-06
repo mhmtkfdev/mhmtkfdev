@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 ### GitHub İstatistiklerim
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mhmtkfdev&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mhmtkfdev&theme=light)](https://git.io/streak-stats)
 
 ### HackerRank Başarılarım
 [![HackerRank Stats](https://hackerrank-stats.vercel.app/api?username=arslanakif19&theme=dark)](https://www.hackerrank.com/arslanakif19)
