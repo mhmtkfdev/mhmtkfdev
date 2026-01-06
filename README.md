@@ -19,11 +19,6 @@ Here are some ideas to get you started:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
-### GitHub İstatistiklerim
-<a href="https://git.io/streak-stats">
-  <img src="https://streak-stats.demolab.com/?user=mhmtkfdev&theme=dark" alt="GitHub Streak" />
-</a>
-
 ### HackerRank Başarılarım
 [![HackerRank Stats](https://hackerrank-stats.vercel.app/api?username=arslanakif19&theme=dark)](https://www.hackerrank.com/arslanakif19)
 
