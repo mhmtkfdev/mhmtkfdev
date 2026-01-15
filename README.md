@@ -28,9 +28,7 @@ Here are some ideas to get you started:
   
 
 ### <div align="center">Ben Mehmet Akif Arslan, Karadeniz Teknik Üniversitesinde Bilgisayar Bilimleri öğrencisiyim👨‍💻 </div>  
-  
 
-- Şu anda okulumuz bünyesinde KATOT (Karadeniz Teknik Üniversitesi Otonom Araç Takımı) takımında çalışıyorum.  
   
 
 <br/>  
